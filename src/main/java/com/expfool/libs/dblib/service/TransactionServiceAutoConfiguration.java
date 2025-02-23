@@ -1,4 +1,4 @@
-package ru.promo.teamspace.dblib.service;
+package com.expfool.libs.dblib.service;
 
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;

@@ -1,4 +1,4 @@
-package ru.promo.teamspace.dblib.service;
+package com.expfool.libs.dblib.service;
 
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;

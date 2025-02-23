@@ -1,4 +1,4 @@
-package ru.promo.teamspace.dblib.service;
+package com.expfool.libs.dblib.service;
 
 import java.util.function.Supplier;
 
